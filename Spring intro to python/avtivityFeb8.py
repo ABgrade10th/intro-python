@@ -35,4 +35,7 @@
 # have a system where when a student swipes their badge, the ID number on the badge is compared to the ID
 # number in the database.If the ID numbers match and are the same the student can come in, if it does not
 # match, they cannot enter.
-# Which python operator would you use in this situation? Explain why
+# Which python operator would you use in this situation? Explain why 
+
+answer= 'aritmaritc'
+

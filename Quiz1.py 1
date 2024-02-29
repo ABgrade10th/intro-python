@@ -1,0 +1,91 @@
+#1. what built-in fucntion would you use if you wanted
+# to print out data to a user? 
+
+I would use the Print() Fucntion.'
+
+#2 what built-1 fucntion would you use if wanted
+# a user to pass in data to progrom?
+
+
+#3. Explain what complexity and abstraction are, them
+#provide an example describing their relatinship to one another.
+# You cannot use the following example because they
+# were shared in class grocery/ electronics store, car, photos.
+
+"complexity = is the measure of how resource intensive a'
+'program can be; example are power, memory, storange.'
+'Abstraction = Is the proces of hiding the operations in the 
+'background, or simplifying operations.'
+
+#4 what does it mean when you encounter a syntax error?
+
+'the computer doesnt understand our code because it'
+'not conforming to the language rules.
+
+#5 what is a variable? Provide an example of a variable in
+'A variable is a container for data.'example strings, floats, number, etc.'
+
+
+x = 10
+
+Print(2 + x = 5)
+
+#6. write a function in python that when called will print out 
+# your name.
+
+name = 'Abdul-Baaqee'
+print(name)
+
+Print('Abudl')
+
+def nameFunction():
+
+nameFunction
+
+ #7. what is a fucntion definition and a fucntion call?
+
+ 'Fucntion definition = A set of instruction'
+ 'that will only run when the fucntion name is called'
+
+ 'Fucntion call = The execution of the function instruction.
+
+ #8. Describe what each sybol means?
+
+ # = // single equal
+ # --> Assogning a value to a key. example # variable and data
+ #==?? Duoble equal -->
+
+ #syntaxError
+ # typeError (data type error) -> canont add a string to an integer
+
+ # 12 what are the three (3) naming formats we use for naming variable
+
+'Snake case - we add a undeerscore after every word'.
+
+'Pascal case - every word starts with a capital letter'
+
+'Camel case - every word after the first word' 
+'start with a capital letter'
+
+
+# !3 Provide a coding scenario where you would you use 
+# a comparison operator in a program?
+'Comparing numbers : ==, >,<'
+'Comparing != : do/dont these passwords match.'
+
+
+# 14. provide a coding scenario where
+# you would you use a logical operator in a program?
+'and, or, not: logical operations'
+
+# 15. Create a block of code where you would
+# use a comparison operator with the following data:
+currentScore= 100
+highScore=2300
+
+currentScore != highScore
+
+
+
+
+

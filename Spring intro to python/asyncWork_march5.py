@@ -30,16 +30,43 @@
 # 4 = 'living quarters'
 
 def ElevatorSystem():
-    floornumber = input('enter a floor number')
-    print('lobby')
-    floornumber = input("9")
-    print('basement')
-    floornumber("9")
-    print(rooftop)
-    floornumber("9")
-    print('gym')
+    userfloor = input('Which floor would you like to go to?')
+    if userfloor == 'm':
+        print("You are going to the Lobby. ")
+    elif userFloor =='b':
+        print("You are going to the basement. ")
+    elif userFloor =='r':
+        print("You are going to the Rooftop. ")
+    elif userFloor == 1:
+        print('You are going to the Gym. ')
+    elif userFloor == 2:
+        print('You are to the Restaurant. ')
+    elif userFloor == 3:
+        print('You are going to Workspace. ')
+    elif userFloor == 4:
+        print('You are going to the Living Quarters. ')
+    else:
+        print('Error: Sorry that floor doesnt exist. Try again. ')
 
-ElevatorSystem()
+
+elevatorSystem()
+
+
+
+
+def Rollercoaster(height, age):
+    if height >= 5.2:
+        print('You may get on roller coaster #1. ')
+    elif height < 5.2:
+        print("You may get on roller coaster #2.")
+    else:
+        print("Error: you may have typed something incorrectly. Try again. ")
+        
+
+Rollercoaster(5.2,13)
+
+
+
 
 #___________________________________________________________
 

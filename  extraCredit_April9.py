@@ -19,6 +19,13 @@ countnumber(user)
 # to ride their roller coasters and have provided you with the following 
 # conditions that they would like your program to check for. 
 
+def countnumber(roller coaster)
+    return len(string)
+user = input('enter the roller coasters')
+print('only a little bit of people get on the roller coasters')
+countnumber(user)
+
+
 # user must be atleast 5.2 or taller and atleast 14 years old or older 
 # in order to ride roller coaster 1. 
 
@@ -38,6 +45,12 @@ countnumber(user)
 # if the enter 'y' for yes, continue the loop and allow the user to put in another
 # item name and item price. If they enter 'n' for no, calculate the total price of items as
 # well as print the all the item names.
+
+def countnumber(a discount)
+if you get a discount you can have most of ya clothes that you are buying
+
+
+
 
 # bonus for prompt # 3.
 # create a discount system where, when the user enters 'y' for being done shopping,

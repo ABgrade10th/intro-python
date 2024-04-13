@@ -38,9 +38,16 @@ animalslimbs('cows')
 # value as either a parameter or by using the input function. The function should also
 # print out the message "this word is even."
 
+function = SyntaxWarning
+    prinnt('this word is even ')
+
 # 3. Team quiz game
 # create a quiz game function that will ask users specific questions about your team members,
 # and allows a user to enter an aswer. Each team member should have two (2) questions about them.
 # Once all the questions are answered, the program should print out how many the user got
 # right compared to how many they got wrong; for example if there are 10 questions and the user
 # got 5 right, they should have a final score of 5/10.
+
+
+
+function = Game OverflowError
